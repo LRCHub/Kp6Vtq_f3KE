@@ -1,0 +1,177 @@
+{
+  "version": 1,
+  "base_track": "COLORS (Album Mix)",
+  "base_artist": "FLOW",
+  "createdAt": "2026-04-01T03:42:29.808474Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "COLORS (Album Mix)",
+      "artist": "FLOW",
+      "has_synced": true,
+      "path": "select/01_COLORS_(Album_Mix)_FLOW.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "COLORS (album mix)",
+      "artist": "FLOW",
+      "has_synced": false,
+      "path": "select/02_COLORS_(album_mix)_FLOW.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "COLORS 〜Album Mix〜",
+      "artist": "FLOW",
+      "has_synced": false,
+      "path": "select/03_COLORS_〜Album_Mix〜_FLOW.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Heartless (feat. Morgan Wallen) (Wallen Album Mix)",
+      "artist": "Diplo",
+      "has_synced": true,
+      "path": "select/04_Heartless_(feat._Morgan_Wallen)_(Wallen_Album_Mix)_Diplo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Memory Of A Free Festival - Alternate Album Mix",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/05_Memory_Of_A_Free_Festival_-_Alternate_Album_Mix_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Memory of a Free Festival (Alternate Album Mix)",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/06_Memory_of_a_Free_Festival_(Alternate_Album_Mix)_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Wild Eyed Boy From Freecloud - Alternate Album Mix",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/07_Wild_Eyed_Boy_From_Freecloud_-_Alternate_Album_Mix_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Wild Eyed Boy From Freecloud (Alternate Album Mix)",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/08_Wild_Eyed_Boy_From_Freecloud_(Alternate_Album_Mix)_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "No More I Sleep - Disco Citizens Rockin' Album Mix",
+      "artist": "Chicane feat. Senadee",
+      "has_synced": false,
+      "path": "select/09_No_More_I_Sleep_-_Disco_Citizens_Rockin'_Album_Mix_Chicane_feat._Senadee.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "If Your Girl Only Knew (Album Mix)",
+      "artist": "Aaliyah",
+      "has_synced": true,
+      "path": "select/10_If_Your_Girl_Only_Knew_(Album_Mix)_Aaliyah.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Drifting Away (album mix)",
+      "artist": "Faithless",
+      "has_synced": false,
+      "path": "select/11_Drifting_Away_(album_mix)_Faithless.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Drifting Away [Album Mix]",
+      "artist": "Faithless",
+      "has_synced": false,
+      "path": "select/12_Drifting_Away_[Album_Mix]_Faithless.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Offshore (album mix)",
+      "artist": "Chicane",
+      "has_synced": false,
+      "path": "select/13_Offshore_(album_mix)_Chicane.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "80's Stars - Album Mix",
+      "artist": "Eiffel 65",
+      "has_synced": true,
+      "path": "select/14_80's_Stars_-_Album_Mix_Eiffel_65.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Faraway - Album Mix",
+      "artist": "Eiffel 65",
+      "has_synced": false,
+      "path": "select/15_Faraway_-_Album_Mix_Eiffel_65.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Figli Di Pitagora - Album Mix",
+      "artist": "Eiffel 65",
+      "has_synced": true,
+      "path": "select/16_Figli_Di_Pitagora_-_Album_Mix_Eiffel_65.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Figli Di Pitagora (Album Mix)",
+      "artist": "Eiffel 65",
+      "has_synced": true,
+      "path": "select/17_Figli_Di_Pitagora_(Album_Mix)_Eiffel_65.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Follow Me - Album Mix",
+      "artist": "Eiffel 65",
+      "has_synced": true,
+      "path": "select/18_Follow_Me_-_Album_Mix_Eiffel_65.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Follow Me - English Album Mix",
+      "artist": "Eiffel 65",
+      "has_synced": true,
+      "path": "select/19_Follow_Me_-_English_Album_Mix_Eiffel_65.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Follow Me (English Album Mix)",
+      "artist": "Eiffel 65",
+      "has_synced": true,
+      "path": "select/20_Follow_Me_(English_Album_Mix)_Eiffel_65.lrc"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "COLORS (Album Mix)",
+      "artist": "FLOW",
+      "has_synced": false,
+      "path": "select/localdb_01_COLORS_(Album_Mix)_FLOW.txt",
+      "repo_name": "ji_M_qGURBI"
+    }
+  ]
+}
